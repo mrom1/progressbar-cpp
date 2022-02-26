@@ -1,0 +1,8 @@
+{
+    "name": "progressbar-cpp",
+    "version": "0.1.0",
+    "dependencies": [
+        "fmt"
+    ],
+    "builtin-baseline": "307ac18b08e4125d3c521a86b7d7b317629be277"
+}
